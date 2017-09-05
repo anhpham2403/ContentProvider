@@ -13,6 +13,7 @@
         tools:layout_editor_absoluteY="39dp"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintLeft_toLeftOf="parent" />
+        tools:layout_editor_absoluteY="39dp" />
 
     <ListView
         android:layout_width="368dp"

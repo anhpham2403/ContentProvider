@@ -53,6 +53,7 @@ public class MyProvider extends ContentProvider {
                 throw new IllegalArgumentException("Unknown URI" + uri);
         }
     }
+
     @Override
     public Uri insert(Uri uri, ContentValues contentValues) {
         long id;
